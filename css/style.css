@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.calc {
+    width: 600px;
+    border: solid 2px #555;
+    border-radius: 10px;
+    background-color: #888;
+    padding: 20px;
+}
